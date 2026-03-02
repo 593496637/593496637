@@ -1,5 +1,7 @@
+---
+
 <h1 align="center">Hi 👋, I'm final</h1>
-<h3 align="center">专注前端工程化的开发者｜Web3 学习中｜AI UI 爱好者</h3>
+<h3 align="center">Senior Frontend Engineer · Architecture · Web3 · AI UI</h3>
 
 <p align="center">
   <a href="https://github.com/593496637">
@@ -11,57 +13,45 @@
 
 ## 🧠 About Me
 
-我是 **final**，一名前端开发工程师，专注于现代前端工程化与交互体验。
+我是 **final**，一名具有 **8 年经验** 的前端工程师，长期负责企业级系统的前端架构设计与复杂交互实现。
 
-目前主要技术方向：
+过往工作中：
 
-* ⚡ Vue3 / React / TypeScript 体系
-* 🔗 Web3 前端（钱包接入 / DApp UI）
-* 🤖 AI 对话流式 UI（SSE / 打字机效果）
-* 🖥️ 大屏可视化与复杂界面开发
-* 🧩 前端性能优化与工程质量
+* 主导过大型管理平台前端架构落地
+* 推动 Monorepo + 组件体系建设
+* 深度参与性能优化与工程质量治理
+* 具备 Web3 DApp 与 AI 实时交互实践经验
 
-我喜欢把复杂系统做得**稳定、清晰、可维护**。
-
----
-
-## 🧰 Tech Stack
-
-### 🎨 Frontend
-
-![Vue](https://img.shields.io/badge/Vue-3-42b883?logo=vue.js)
-![React](https://img.shields.io/badge/React-18-61dafb?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript)
-![Vite](https://img.shields.io/badge/Vite-646cff?logo=vite)
-![Naive UI](https://img.shields.io/badge/NaiveUI-18a058)
+我专注于构建**高性能、可扩展、工程化完善**的前端系统。
 
 ---
 
-### 🔗 Web3
+## 🧭 Core Expertise
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-purple)
-![WalletConnect](https://img.shields.io/badge/WalletConnect-3b99fc)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?logo=metamask)
+* 🧱 **前端架构与工程体系**
+  深度实践 Vue3 / React / TypeScript，在中大型项目中负责架构设计、状态管理策略、组件体系与工程规范建设。
 
----
+* 🔗 **Web3 DApp 前端工程化**
+  熟悉 ethers.js / wagmi / RainbowKit 等技术栈，具备钱包接入、链上交互与 DeFi UI 实战经验，可阅读 Solidity。
 
-### 🛠️ Tools
+* 🤖 **AI 实时交互与流式渲染**
+  实现基于 WebSocket / SSE 的实时对话系统、打字机效果与长列表性能优化，具备 AI Chat 产品级经验。 
 
-![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode)
+* 🖥️ **大屏可视化与 3D 渲染**
+  使用 ECharts / Three.js 构建复杂数据驾驶舱与三维可视化系统，具备 WebGL 性能优化经验。 
+
+* ⚙️ **性能优化与工程质量治理**
+  熟悉 Web Vitals、代码分割、虚拟滚动、监控埋点与构建优化，曾将构建体积缩减 60%，首屏优化至 1.5s。 
 
 ---
 
 ## 🚧 Current Focus
 
-* 🔥 Web3 DApp 前端实践
-* 🔥 钱包连接与交互体验优化
-* 🔥 AI 流式输出界面（SSE / Typewriter）
-* 🔥 超宽大屏可视化项目
-* 🔥 前端工程化与性能优化
+* 🔥 Web3 Frontend Infrastructure
+* 🔥 Wallet UX & On-chain Interaction
+* 🔥 AI Streaming UI Architecture
+* 🔥 Ultra-wide Screen Visualization
+* 🔥 Frontend Engineering Excellence
 
 ---
 
@@ -79,9 +69,9 @@
 
 ## 🤝 Open to
 
-* Remote Web3 Frontend Opportunities
-* DApp 合作开发
-* AI + Frontend 项目合作
+* Remote Senior Frontend Opportunities
+* Web3 / AI Infra Projects
+* Complex Frontend System Collaborations
 
 ---
 
